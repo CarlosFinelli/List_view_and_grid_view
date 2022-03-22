@@ -19,6 +19,7 @@
             android:layout_width="0dp"
             android:layout_height="150dp"
             android:layout_weight="1"
+            android:scaleType="fitXY"
             android:layout_marginEnd="8dp"
             app:srcCompat="@drawable/image1" />
 
